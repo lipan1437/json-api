@@ -180,5 +180,188 @@
       "category": "kurta",
       "id": 20
     }
+  ],
+
+  "womens": [
+    {
+      "oldprice": 999,
+      "price": 349,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t640/women-s-blackkiller-queen-oversized-t-shirt-568947-1673613761-1.jpg",
+      "category": "t-shirt",
+      "name": "Women's Black Killer Queen Graphic Printed Boyfriend T-shirt ",
+      "id": 1
+    },
+    {
+      "oldprice": 999,
+      "name": "Women's Purple Weirdos Graphic Printed Oversized T-shirt",
+      "price": 449,
+      "Brand": "ACT SMART",
+      "image": "https://images.bewakoof.com/t640/women-s-purpleweirdos-oversized-t-shirt-568926-1673613996-1.jpg",
+      "category": "t-shirt",
+      "id": 2
+    },
+    {
+      "oldprice": 999,
+      "name": "White Round Neck 3/4th Sleeve T-Shirt",
+      "price": 349,
+      "Brand": "Bushirt",
+      "image": "https://images.bewakoof.com/t640/white-round-neck-3-4th-sleeve-t-shirt-105767-1655748756-1.jpg",
+      "category": "t-shirt",
+      "id": 3
+    },
+    {
+      "oldprice": 1249,
+      "name": "Women's Purple Power Up Graphic Printed Oversized T-shirt",
+      "price": 499,
+      "Brand": "FLY69",
+      "image": "https://images.bewakoof.com/t640/women-s-purple-power-up-graphic-printed-oversized-t-shirt-516913-1667491643-1.jpg",
+      "category": "t-shirt",
+      "id": 4
+    },
+    {
+      "oldprice": 1999,
+      "name": "Black & Red Boyfriend t-shirt",
+      "price": 1499,
+      "Brand": "Snitch",
+      "image": "https://images.bewakoof.com/t640/black-red-boyfriend-t-shirt-568955-1673849287-1.jpg",
+      "category": "t-shirt",
+      "id": 5
+    },
+    {
+      "oldprice": 2999,
+      "name": "Women's Harbor Grey Bad Habits Typography Oversized Hoodie",
+      "price": 1699,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t640/bad-habits-oversized-hoodie-sweatshirt-555138-1668663367-1.jpg",
+      "category": "hoodies",
+      "id": 6
+    },
+    {
+      "oldprice": 2999,
+      "name": "Women's Pink My Drug Graphic Printed Oversized Hoodie",
+      "price": 1599,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t640/women-s-pink-my-drug-graphic-printed-oversized-hoodie-556613-1669375451-1.jpg",
+      "category": "hoodies",
+      "id": 7
+    },
+    {
+      "oldprice": 3499,
+      "name": "Women's Beige Hangover Typography Oversized Hoodie",
+      "price": 1399,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t640/women-hangover-hoodie-printed-hoodie-559157-1672313056-1.jpg",
+      "category": "hoodies",
+      "id": 8
+    },
+    {
+      "oldprice": 1649,
+      "name": "Women's Black & White Color Block Hoodie",
+      "price": 549,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t640/women-s-color-block-hoodie-362075-1656150510-1.jpg",
+      "category": "hoodies",
+      "id": 9
+    },
+    {
+      "oldprice": 1299,
+      "name": "Women's Beige Shirt",
+      "price": 549,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t640/women-s-beige-shirt-540964-1662557943-1.jpg",
+      "category": "shirt",
+      "id": 10
+    },
+    {
+      "oldprice": 1049,
+      "name": "Women's Grey Shirt",
+      "price": 699,
+      "Brand": "Blue Buddha",
+      "image": "https://images.bewakoof.com/t640/women-s-grey-shirt-540953-1662557969-1.jpg",
+      "category": "shirt",
+      "id": 11
+    },
+    {
+      "oldprice": 1699,
+      "name": "Women's Blue Slim Fit Shirt",
+      "price": 764,
+      "Brand": "Jeans Cafe",
+      "image": "https://images.bewakoof.com/t640/women-s-blue-slim-fit-shirt-559217-1670583575-1.jpg",
+      "category": "shirt",
+      "id": 12
+    },
+    {
+      "oldprice": 1399,
+      "name": "Women's Grey Checkered Regular Fit Shirt",
+      "price": 769,
+      "Brand": "Jeans Cafe",
+      "image": "https://images.bewakoof.com/t1080/campus-sutra-women-s-grey-checkered-regular-fit-shirt-454019-1656182007-1.JPG",
+      "category": "shirt",
+      "id": 13
+    },
+    {
+      "oldprice": 1399,
+      "name": "Women's Blue Checkered Regular Fit Shirt",
+      "price": 789,
+      "Brand": "Blue Buddha",
+      "image": "https://images.bewakoof.com/t640/campus-sutra-women-s-blue-checkered-regular-fit-shirt-454857-1656054703-1.JPG",
+      "category": "shirt",
+      "id": 14
+    },
+    {
+      "oldprice": 2099,
+      "name": "Women's Black Polka Printed Jumpsuit",
+      "price": 649,
+      "Brand": "Snitch",
+      "image": "https://images.bewakoof.com/t640/women-s-black-polka-printed-jumpsuit-542453-1663655631-1.jpg",
+      "category": "jumpsuit",
+      "id": 15
+    },
+    {
+      "oldprice": 1699,
+      "name": "Women's Orange Jumpsuit",
+      "price": 1499,
+      "Brand": "See Designs",
+      "image": "https://images.bewakoof.com/t640/women-s-orange-jumpsuit-495715-1656163077-1.jpg",
+      "category": "jumpsuit",
+      "id": 16
+    },
+    {
+      "oldprice": 1999,
+      "name": "Women's Black Floral Printed Jumpsuit",
+      "price": 879,
+      "Brand": "See Designs",
+      "image": "https://images.bewakoof.com/t640/women-s-black-floral-printed-jumpsuit-563483-1671107477-1.jpg",
+      "category": "jumpsuit",
+      "id": 17
+    },
+    {
+      "oldprice": 1999,
+      "name": "Men's Blue Relaxed Fit Knit Kurta",
+      "price": 639,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t320/the-dry-state-women-maroon-solid-basic-jumpsuit-has-a-vneck-long-sleeves-403132-1631098609-1.jpg",
+      "category": "jumpsuit",
+      "id": 18
+    },
+    {
+      "oldprice": 2499,
+      "name": "Women's Blue All Over Floral Printed Jumpsuit",
+      "price": 999,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t640/women-s-blue-all-over-floral-printed-jumpsuit-542455-1663655561-1.jpg",
+      "category": "jumpsuit",
+      "id": 19
+    },
+    {
+      "oldprice": 1199,
+      "name": "Women's Blue Jumpsuit",
+      "price": 679,
+      "Brand": "Bewakoof",
+      "image": "https://images.bewakoof.com/t640/women-s-blue-jumpsuit-542452-1663655654-1.jpg",
+      "category": "jumpsuit",
+      "id": 20
+    }
   ]
 }
